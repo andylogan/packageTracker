@@ -1,0 +1,13 @@
+C:\Users\andyl\source\repos\PackageTracker\PackageTracker.Test\bin\Debug\PackageTracker.Test.dll
+C:\Users\andyl\source\repos\PackageTracker\PackageTracker.Test\bin\Debug\PackageTracker.Test.pdb
+C:\Users\andyl\source\repos\PackageTracker\PackageTracker.Test\bin\Debug\nunit.framework.dll
+C:\Users\andyl\source\repos\PackageTracker\PackageTracker.Test\bin\Debug\PackageTracker.exe
+C:\Users\andyl\source\repos\PackageTracker\PackageTracker.Test\bin\Debug\StructureMap.dll
+C:\Users\andyl\source\repos\PackageTracker\PackageTracker.Test\bin\Debug\PackageTracker.pdb
+C:\Users\andyl\source\repos\PackageTracker\PackageTracker.Test\bin\Debug\PackageTracker.exe.config
+C:\Users\andyl\source\repos\PackageTracker\PackageTracker.Test\bin\Debug\nunit.framework.xml
+C:\Users\andyl\source\repos\PackageTracker\PackageTracker.Test\bin\Debug\StructureMap.xml
+C:\Users\andyl\source\repos\PackageTracker\PackageTracker.Test\obj\Debug\PackageTracker.Test.csprojResolveAssemblyReference.cache
+C:\Users\andyl\source\repos\PackageTracker\PackageTracker.Test\obj\Debug\PackageTracker.Test.csproj.CoreCompileInputs.cache
+C:\Users\andyl\source\repos\PackageTracker\PackageTracker.Test\obj\Debug\PackageTracker.Test.dll
+C:\Users\andyl\source\repos\PackageTracker\PackageTracker.Test\obj\Debug\PackageTracker.Test.pdb

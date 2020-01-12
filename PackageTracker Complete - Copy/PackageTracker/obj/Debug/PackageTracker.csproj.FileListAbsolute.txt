@@ -1,0 +1,9 @@
+C:\Users\andyl\source\repos\PackageTracker\PackageTracker\bin\Debug\PackageTracker.exe.config
+C:\Users\andyl\source\repos\PackageTracker\PackageTracker\bin\Debug\PackageTracker.exe
+C:\Users\andyl\source\repos\PackageTracker\PackageTracker\bin\Debug\PackageTracker.pdb
+C:\Users\andyl\source\repos\PackageTracker\PackageTracker\bin\Debug\StructureMap.dll
+C:\Users\andyl\source\repos\PackageTracker\PackageTracker\bin\Debug\StructureMap.xml
+C:\Users\andyl\source\repos\PackageTracker\PackageTracker\obj\Debug\PackageTracker.csprojResolveAssemblyReference.cache
+C:\Users\andyl\source\repos\PackageTracker\PackageTracker\obj\Debug\PackageTracker.csproj.CoreCompileInputs.cache
+C:\Users\andyl\source\repos\PackageTracker\PackageTracker\obj\Debug\PackageTracker.exe
+C:\Users\andyl\source\repos\PackageTracker\PackageTracker\obj\Debug\PackageTracker.pdb
